@@ -92,7 +92,7 @@ following option for 'configure':
 
 To specify the path of the Raspberry Pi's libraries, use the following option
 for 'configure':
---with-rpi-lib-path="/path/to/libbcm_host.so"
+--with-rpi-lib-path="/path/to/dir/containing/libbcm_host.so"
 
 ===============================================================================
                            === CuBox / TDA995x ===
